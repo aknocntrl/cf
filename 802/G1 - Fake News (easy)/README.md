@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/802/problem/G1" target="_blank" rel="noopener noreferrer">802G1 — Fake News (easy)</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 802G1](https://codeforces.com/contest/802/problem/G1) |
+
+## Topics
+`implementation` `strings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">G1. Fake News (easy)</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>As it's the first of April, Heidi is suspecting that the news she reads today are fake, and she does not want to look silly in front of all the contestants. She knows that a newspiece is fake if it contains <span class="tex-font-style-tt">heidi</span> as a subsequence. Help Heidi assess whether the given piece is true, but please be discreet about it...</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first and only line of input contains a single nonempty string <span class="tex-span"><i>s</i></span> of length at most <span class="tex-span">1000</span> composed of lowercase letters (<span class="tex-font-style-tt">a</span>-<span class="tex-font-style-tt">z</span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output <span class="tex-font-style-tt">YES</span> if the string <span class="tex-span"><i>s</i></span> contains <span class="tex-font-style-tt">heidi</span> as a subsequence and <span class="tex-font-style-tt">NO</span> otherwise.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003825041059736384" id="id0022112877950040488" class="input-output-copier">Copy</div></div><pre id="id003825041059736384">abcheaibcdi<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00586913794016816" id="id0012672612289811702" class="input-output-copier">Copy</div></div><pre id="id00586913794016816">YES</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id002861973974266465" id="id007436760503087908" class="input-output-copier">Copy</div></div><pre id="id002861973974266465">hiedi<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id003048820685646132" id="id002270575433273705" class="input-output-copier">Copy</div></div><pre id="id003048820685646132">NO</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>A string <span class="tex-span"><i>s</i></span> contains another string <span class="tex-span"><i>p</i></span> as a <span class="tex-font-style-underline">subsequence</span> if it is possible to delete some characters from <span class="tex-span"><i>s</i></span> and obtain <span class="tex-span"><i>p</i></span>.</p></div>
