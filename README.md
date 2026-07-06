@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 115 | 16 |
+| 116 | 16 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (16)
 - [implementation](#implementation) (77)
 - [math](#math) (35)
 - [number theory](#number-theory) (6)
@@ -139,6 +139,7 @@
 | 1702B | [Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1702/B%20-%20Polycarp%20Writes%20a%20String%20from%20Memory/solution.cpp) |
 | 1716A | [2-3 Moves](https://codeforces.com/contest/1716/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1716/A%20-%202-3%20Moves/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
