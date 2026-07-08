@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 122 | 16 |
+| 123 | 16 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (27)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (13)
+- [constructive algorithms](#constructive-algorithms) (14)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
@@ -93,6 +93,7 @@
 | 1702A | [Round Down the Price](https://codeforces.com/contest/1702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1702/A%20-%20Round%20Down%20the%20Price/solution.cpp) |
 | 1758A | [SSeeeeiinngg DDoouubbllee](https://codeforces.com/contest/1758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1758/A%20-%20SSeeeeiinngg%20DDoouubbllee/solution.cpp) |
 | 1886A | [Sum of Three](https://codeforces.com/contest/1886/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1886/A%20-%20Sum%20of%20Three/solution.cpp) |
+| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1922A | [Tricky Template](https://codeforces.com/contest/1922/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1922/A%20-%20Tricky%20Template/solution.cpp) |
 | 1948A | [Special Characters](https://codeforces.com/contest/1948/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1948/A%20-%20Special%20Characters/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
