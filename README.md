@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 128 | 16 |
+| 129 | 16 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (18)
-- [implementation](#implementation) (82)
+- [implementation](#implementation) (83)
 - [math](#math) (40)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (6)
@@ -231,6 +231,7 @@
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 | 1922A | [Tricky Template](https://codeforces.com/contest/1922/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1922/A%20-%20Tricky%20Template/solution.cpp) |
+| 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.cpp) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1971/B%20-%20Different%20String/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
