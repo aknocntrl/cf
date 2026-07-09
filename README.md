@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 124 | 16 |
+| 125 | 16 |
 
 ---
 
@@ -22,11 +22,11 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (18)
-- [implementation](#implementation) (79)
+- [implementation](#implementation) (80)
 - [math](#math) (40)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (6)
-- [strings](#strings) (30)
+- [strings](#strings) (31)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -224,6 +224,7 @@
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.cpp) |
+| 1850C | [Word on the Paper](https://codeforces.com/contest/1850/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1850/C%20-%20Word%20on%20the%20Paper/solution.cpp) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
@@ -329,6 +330,7 @@
 | 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.cpp) |
+| 1850C | [Word on the Paper](https://codeforces.com/contest/1850/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1850/C%20-%20Word%20on%20the%20Paper/solution.cpp) |
 | 1922A | [Tricky Template](https://codeforces.com/contest/1922/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1922/A%20-%20Tricky%20Template/solution.cpp) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
 | 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.cpp) |
