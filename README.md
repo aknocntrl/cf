@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 144 | 16 |
+| 145 | 16 |
 
 ---
 
@@ -21,10 +21,10 @@
 - [dp](#dp) (3)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (22)
-- [implementation](#implementation) (96)
-- [math](#math) (44)
-- [number theory](#number-theory) (7)
+- [greedy](#greedy) (23)
+- [implementation](#implementation) (97)
+- [math](#math) (45)
+- [number theory](#number-theory) (8)
 - [sortings](#sortings) (9)
 - [strings](#strings) (38)
 - [two pointers](#two-pointers) (2)
@@ -144,6 +144,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
@@ -199,6 +200,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 776A | [A Serial Killer](https://codeforces.com/contest/776/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/776/A%20-%20A%20Serial%20Killer/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
@@ -279,6 +281,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 747A | [Display Size](https://codeforces.com/contest/747/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/747/A%20-%20Display%20Size/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
@@ -318,6 +321,7 @@
 |---|---------|------------|----------|
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
