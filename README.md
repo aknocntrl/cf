@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 148 | 16 |
+| 149 | 16 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [games](#games) (2)
 - [greedy](#greedy) (24)
 - [implementation](#implementation) (99)
-- [math](#math) (48)
+- [math](#math) (49)
 - [number theory](#number-theory) (9)
 - [sortings](#sortings) (9)
 - [strings](#strings) (38)
@@ -296,6 +296,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
 | 1593A | [Elections](https://codeforces.com/contest/1593/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1593/A%20-%20Elections/solution.cpp) |
