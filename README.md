@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 152 | 16 |
+| 153 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (32)
 - [combinatorics](#combinatorics) (1)
@@ -23,10 +23,11 @@
 - [games](#games) (2)
 - [greedy](#greedy) (25)
 - [implementation](#implementation) (99)
-- [math](#math) (52)
+- [math](#math) (53)
 - [number theory](#number-theory) (9)
 - [sortings](#sortings) (10)
 - [strings](#strings) (38)
+- [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -35,6 +36,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
 
 ### bitmasks
@@ -317,6 +319,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1977A | [Little Nikita](https://codeforces.com/contest/1977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1977/A%20-%20Little%20Nikita/solution.cpp) |
 | 1980A | [Problem Generator](https://codeforces.com/contest/1980/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1980/A%20-%20Problem%20Generator/solution.cpp) |
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2000/A%20-%20Primary%20Task/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
@@ -399,6 +402,12 @@
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
+
+### ternary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
 
 ### two pointers
 
