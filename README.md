@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 159 | 18 |
+| 160 | 18 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (30)
 - [implementation](#implementation) (99)
-- [math](#math) (58)
+- [math](#math) (59)
 - [number theory](#number-theory) (9)
 - [sortings](#sortings) (10)
 - [strings](#strings) (38)
@@ -315,6 +315,7 @@
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
+| 1385A | [Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1385/A%20-%20Three%20Pairwise%20Maximums/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
