@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 151 | 16 |
+| 152 | 16 |
 
 ---
 
@@ -18,12 +18,12 @@
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (18)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (24)
+- [greedy](#greedy) (25)
 - [implementation](#implementation) (99)
-- [math](#math) (51)
+- [math](#math) (52)
 - [number theory](#number-theory) (9)
 - [sortings](#sortings) (10)
 - [strings](#strings) (38)
@@ -121,6 +121,7 @@
 |---|---------|------------|----------|
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 | 1539B | [Love Song](https://codeforces.com/contest/1539/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1539/B%20-%20Love%20Song/solution.cpp) |
 
 ### expression parsing
@@ -152,6 +153,7 @@
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 | 1675A | [Food for Animals](https://codeforces.com/contest/1675/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1675/A%20-%20Food%20for%20Animals/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1702B | [Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1702/B%20-%20Polycarp%20Writes%20a%20String%20from%20Memory/solution.cpp) |
@@ -298,6 +300,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
 | 1593A | [Elections](https://codeforces.com/contest/1593/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1593/A%20-%20Elections/solution.cpp) |
 | 1675A | [Food for Animals](https://codeforces.com/contest/1675/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1675/A%20-%20Food%20for%20Animals/solution.cpp) |
