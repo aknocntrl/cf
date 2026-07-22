@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 162 | 18 |
+| 163 | 18 |
 
 ---
 
@@ -22,12 +22,12 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (30)
+- [greedy](#greedy) (31)
 - [implementation](#implementation) (101)
 - [math](#math) (60)
 - [number theory](#number-theory) (9)
 - [sortings](#sortings) (10)
-- [strings](#strings) (40)
+- [strings](#strings) (41)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (2)
 
@@ -157,6 +157,7 @@
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
+| 978B | [File Name](https://codeforces.com/contest/978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/978/B%20-%20File%20Name/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1311A | [Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1311/A%20-%20Add%20Odd%20or%20Subtract%20Even/solution.cpp) |
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
@@ -400,6 +401,7 @@
 | 776A | [A Serial Killer](https://codeforces.com/contest/776/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/776/A%20-%20A%20Serial%20Killer/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 802G1 | [Fake News (easy)](https://codeforces.com/contest/802/problem/G1) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/802/G1%20-%20Fake%20News%20(easy)/solution.cpp) |
+| 978B | [File Name](https://codeforces.com/contest/978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/978/B%20-%20File%20Name/solution.cpp) |
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.cpp) |
 | 1008A | [Romaji](https://codeforces.com/contest/1008/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1008/A%20-%20Romaji/solution.cpp) |
 | 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
