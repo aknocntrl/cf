@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 172 | 18 |
+| 173 | 18 |
 
 ---
 
@@ -22,9 +22,9 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (4)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (34)
+- [greedy](#greedy) (35)
 - [implementation](#implementation) (107)
-- [math](#math) (64)
+- [math](#math) (65)
 - [number theory](#number-theory) (9)
 - [sortings](#sortings) (10)
 - [strings](#strings) (42)
@@ -191,6 +191,7 @@
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
+| 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 
 ### implementation
 
@@ -372,6 +373,7 @@
 | 2184A | [Social Experiment](https://codeforces.com/contest/2184/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2184/A%20-%20Social%20Experiment/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
+| 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 
 ### number theory
 
