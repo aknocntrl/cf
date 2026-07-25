@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 174 | 18 |
+| 175 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (2)
-- [bitmasks](#bitmasks) (1)
+- [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (34)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (20)
@@ -44,6 +44,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1527A | [And Then There Were K](https://codeforces.com/contest/1527/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1527/A%20-%20And%20Then%20There%20Were%20K/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### brute force
