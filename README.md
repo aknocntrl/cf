@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 177 | 18 |
+| 178 | 18 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (36)
-- [implementation](#implementation) (108)
+- [implementation](#implementation) (109)
 - [math](#math) (67)
 - [number theory](#number-theory) (10)
 - [sortings](#sortings) (10)
@@ -224,6 +224,7 @@
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 | 492A | [Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/492/A%20-%20Vanya%20and%20Cubes/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
+| 540A | [Combination Lock](https://codeforces.com/contest/540/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/540/A%20-%20Combination%20Lock/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
