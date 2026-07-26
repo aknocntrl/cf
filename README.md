@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 180 | 18 |
+| 181 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (3)
-- [bitmasks](#bitmasks) (2)
+- [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (35)
-- [combinatorics](#combinatorics) (1)
+- [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (20)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (5)
@@ -24,11 +24,12 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (36)
 - [implementation](#implementation) (109)
-- [math](#math) (69)
+- [math](#math) (70)
 - [number theory](#number-theory) (11)
 - [sortings](#sortings) (10)
 - [strings](#strings) (43)
 - [ternary search](#ternary-search) (1)
+- [trees](#trees) (1)
 - [two pointers](#two-pointers) (3)
 
 ---
@@ -46,6 +47,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1527A | [And Then There Were K](https://codeforces.com/contest/1527/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1527/A%20-%20And%20Then%20There%20Were%20K/solution.cpp) |
+| 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### brute force
@@ -93,6 +95,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
+| 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 
 ### constructive algorithms
 
@@ -357,6 +360,7 @@
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
+| 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
@@ -469,6 +473,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1996/A%20-%20Legs/solution.cpp) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 
 ### two pointers
 
