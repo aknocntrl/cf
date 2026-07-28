@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 181 | 19 |
+| 182 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (35)
@@ -23,7 +24,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (36)
-- [implementation](#implementation) (109)
+- [implementation](#implementation) (110)
 - [math](#math) (70)
 - [number theory](#number-theory) (11)
 - [sortings](#sortings) (10)
@@ -33,6 +34,12 @@
 - [two pointers](#two-pointers) (3)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### binary search
 
@@ -215,6 +222,7 @@
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 265A | [Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/265/A%20-%20Colorful%20Stones%20(Simplified%20Edition)/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
