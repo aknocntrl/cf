@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 191 | 20 |
+| 192 | 20 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (38)
+- [brute force](#brute-force) (39)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (21)
 - [data structures](#data-structures) (1)
@@ -24,7 +24,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (39)
-- [implementation](#implementation) (111)
+- [implementation](#implementation) (112)
 - [math](#math) (76)
 - [number theory](#number-theory) (13)
 - [sortings](#sortings) (11)
@@ -76,6 +76,7 @@
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
+| 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.cpp) |
 | 1633A | [Div. 7](https://codeforces.com/contest/1633/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1633/A%20-%20Div.%207/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
@@ -278,6 +279,7 @@
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.cpp) |
 | 1539B | [Love Song](https://codeforces.com/contest/1539/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1539/B%20-%20Love%20Song/solution.cpp) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
