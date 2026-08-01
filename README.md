@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 198 | 20 |
+| 199 | 20 |
 
 ---
 
@@ -24,8 +24,8 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (40)
-- [implementation](#implementation) (116)
-- [math](#math) (79)
+- [implementation](#implementation) (117)
+- [math](#math) (80)
 - [number theory](#number-theory) (13)
 - [sortings](#sortings) (11)
 - [strings](#strings) (45)
@@ -336,6 +336,7 @@
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
 
 ### math
 
@@ -420,6 +421,7 @@
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
 
 ### number theory
 
