@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 199 | 20 |
+| 200 | 20 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (40)
-- [implementation](#implementation) (117)
+- [implementation](#implementation) (118)
 - [math](#math) (80)
 - [number theory](#number-theory) (13)
 - [sortings](#sortings) (11)
@@ -268,6 +268,7 @@
 | 884A | [Book Reading](https://codeforces.com/contest/884/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/884/A%20-%20Book%20Reading/solution.cpp) |
 | 935A | [Fafa and his Company](https://codeforces.com/contest/935/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/935/A%20-%20Fafa%20and%20his%20Company/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
+| 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.cpp) |
 | 1003A | [Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1003/A%20-%20Polycarp's%20Pockets/solution.cpp) |
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.cpp) |
 | 1008A | [Romaji](https://codeforces.com/contest/1008/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1008/A%20-%20Romaji/solution.cpp) |
