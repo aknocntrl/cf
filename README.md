@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 201 | 21 |
+| 202 | 21 |
 
 ---
 
@@ -24,12 +24,12 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (4)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (40)
+- [greedy](#greedy) (41)
 - [implementation](#implementation) (118)
-- [math](#math) (80)
+- [math](#math) (81)
 - [number theory](#number-theory) (13)
 - [sortings](#sortings) (11)
-- [strings](#strings) (45)
+- [strings](#strings) (46)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (3)
@@ -205,6 +205,7 @@
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1807B | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1807/B%20-%20Grab%20the%20Candies/solution.cpp) |
+| 1811A | [Insert Digit](https://codeforces.com/contest/1811/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1811/A%20-%20Insert%20Digit/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
@@ -391,6 +392,7 @@
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1790A | [Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1790/A%20-%20Polycarp%20and%20the%20Day%20of%20Pi/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
+| 1811A | [Insert Digit](https://codeforces.com/contest/1811/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1811/A%20-%20Insert%20Digit/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
@@ -496,6 +498,7 @@
 | 1790A | [Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1790/A%20-%20Polycarp%20and%20the%20Day%20of%20Pi/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.cpp) |
+| 1811A | [Insert Digit](https://codeforces.com/contest/1811/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1811/A%20-%20Insert%20Digit/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 | 1833A | [Musical Puzzle](https://codeforces.com/contest/1833/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1833/A%20-%20Musical%20Puzzle/solution.cpp) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.cpp) |
