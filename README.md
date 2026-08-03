@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 203 | 21 |
+| 204 | 21 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (39)
+- [brute force](#brute-force) (40)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (21)
 - [data structures](#data-structures) (1)
@@ -24,11 +24,11 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (4)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (41)
+- [greedy](#greedy) (42)
 - [implementation](#implementation) (119)
 - [math](#math) (81)
 - [number theory](#number-theory) (13)
-- [sortings](#sortings) (11)
+- [sortings](#sortings) (12)
 - [strings](#strings) (47)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -84,6 +84,7 @@
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
 | 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.cpp) |
+| 1629A | [Download More RAM](https://codeforces.com/contest/1629/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1629/A%20-%20Download%20More%20RAM/solution.cpp) |
 | 1633A | [Div. 7](https://codeforces.com/contest/1633/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1633/A%20-%20Div.%207/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1743/A%20-%20Password/solution.cpp) |
@@ -197,6 +198,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
+| 1629A | [Download More RAM](https://codeforces.com/contest/1629/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1629/A%20-%20Download%20More%20RAM/solution.cpp) |
 | 1675A | [Food for Animals](https://codeforces.com/contest/1675/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1675/A%20-%20Food%20for%20Animals/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1702B | [Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1702/B%20-%20Polycarp%20Writes%20a%20String%20from%20Memory/solution.cpp) |
@@ -460,6 +462,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 1629A | [Download More RAM](https://codeforces.com/contest/1629/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1629/A%20-%20Download%20More%20RAM/solution.cpp) |
 | 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
