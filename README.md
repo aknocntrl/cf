@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 209 | 21 |
+| 210 | 21 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (40)
+- [brute force](#brute-force) (41)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (22)
 - [data structures](#data-structures) (1)
@@ -24,8 +24,8 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (4)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (43)
-- [implementation](#implementation) (119)
+- [greedy](#greedy) (44)
+- [implementation](#implementation) (120)
 - [math](#math) (81)
 - [number theory](#number-theory) (13)
 - [sortings](#sortings) (12)
@@ -84,6 +84,7 @@
 | 811A | [Vladik and Courtesy](https://codeforces.com/contest/811/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/811/A%20-%20Vladik%20and%20Courtesy/solution.cpp) |
 | 935A | [Fafa and his Company](https://codeforces.com/contest/935/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/935/A%20-%20Fafa%20and%20his%20Company/solution.cpp) |
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.cpp) |
+| 1313A | [Fast Food Restaurant](https://codeforces.com/contest/1313/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1313/A%20-%20Fast%20Food%20Restaurant/solution.cpp) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
@@ -197,6 +198,7 @@
 | 978B | [File Name](https://codeforces.com/contest/978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/978/B%20-%20File%20Name/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1311A | [Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1311/A%20-%20Add%20Odd%20or%20Subtract%20Even/solution.cpp) |
+| 1313A | [Fast Food Restaurant](https://codeforces.com/contest/1313/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1313/A%20-%20Fast%20Food%20Restaurant/solution.cpp) |
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
@@ -293,6 +295,7 @@
 | 1186A | [Vus the Cossack and a Contest](https://codeforces.com/contest/1186/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1186/A%20-%20Vus%20the%20Cossack%20and%20a%20Contest/solution.cpp) |
 | 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
 | 1311A | [Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1311/A%20-%20Add%20Odd%20or%20Subtract%20Even/solution.cpp) |
+| 1313A | [Fast Food Restaurant](https://codeforces.com/contest/1313/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1313/A%20-%20Fast%20Food%20Restaurant/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
