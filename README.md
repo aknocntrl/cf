@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 214 | 21 |
+| 215 | 21 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (42)
+- [brute force](#brute-force) (43)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (22)
 - [data structures](#data-structures) (1)
@@ -24,7 +24,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (46)
+- [greedy](#greedy) (47)
 - [implementation](#implementation) (122)
 - [math](#math) (82)
 - [number theory](#number-theory) (13)
@@ -112,6 +112,7 @@
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
@@ -235,6 +236,7 @@
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2123B | [Tournament](https://codeforces.com/contest/2123/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2123/B%20-%20Tournament/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
