@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 215 | 21 |
+| 216 | 21 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (47)
 - [implementation](#implementation) (122)
-- [math](#math) (82)
+- [math](#math) (83)
 - [number theory](#number-theory) (13)
 - [sortings](#sortings) (14)
 - [strings](#strings) (49)
@@ -447,6 +447,7 @@
 | 2114A | [Square Year](https://codeforces.com/contest/2114/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2114/A%20-%20Square%20Year/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2137A | [Collatz Conjecture](https://codeforces.com/contest/2137/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2137/A%20-%20Collatz%20Conjecture/solution.cpp) |
+| 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2149/A%20-%20Be%20Positive/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2184A | [Social Experiment](https://codeforces.com/contest/2184/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2184/A%20-%20Social%20Experiment/solution.cpp) |
