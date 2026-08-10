@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 219 | 22 |
+| 220 | 22 |
 
 ---
 
@@ -24,13 +24,13 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (47)
+- [greedy](#greedy) (48)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (123)
 - [math](#math) (85)
 - [number theory](#number-theory) (13)
 - [sortings](#sortings) (14)
-- [strings](#strings) (49)
+- [strings](#strings) (50)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (3)
@@ -236,6 +236,7 @@
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2044C | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2044/C%20-%20Hard%20Problem/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+| 2091A | [Olympiad Date](https://codeforces.com/contest/2091/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2091/A%20-%20Olympiad%20Date/solution.cpp) |
 | 2123B | [Tournament](https://codeforces.com/contest/2123/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2123/B%20-%20Tournament/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
@@ -555,6 +556,7 @@
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2065B | [Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2065/B%20-%20Skibidus%20and%20Ohio/solution.cpp) |
+| 2091A | [Olympiad Date](https://codeforces.com/contest/2091/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2091/A%20-%20Olympiad%20Date/solution.cpp) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
