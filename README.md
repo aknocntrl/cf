@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 225 | 22 |
+| 226 | 22 |
 
 ---
 
@@ -24,13 +24,13 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (50)
+- [greedy](#greedy) (51)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (126)
+- [implementation](#implementation) (127)
 - [math](#math) (89)
 - [number theory](#number-theory) (13)
 - [sortings](#sortings) (14)
-- [strings](#strings) (50)
+- [strings](#strings) (51)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (3)
@@ -236,6 +236,7 @@
 | 1921A | [Square](https://codeforces.com/contest/1921/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1921/A%20-%20Square/solution.cpp) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
 | 1945A | [Setting up Camp](https://codeforces.com/contest/1945/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1945/A%20-%20Setting%20up%20Camp/solution.cpp) |
+| 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2014A | [Robin Helps](https://codeforces.com/contest/2014/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2014/A%20-%20Robin%20Helps/solution.cpp) |
 | 2044C | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2044/C%20-%20Hard%20Problem/solution.cpp) |
@@ -371,6 +372,7 @@
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1971/B%20-%20Different%20String/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
+| 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
 | 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2000/A%20-%20Primary%20Task/solution.cpp) |
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
 | 2010A | [Alternating Sum of Numbers](https://codeforces.com/contest/2010/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2010/A%20-%20Alternating%20Sum%20of%20Numbers/solution.cpp) |
@@ -563,6 +565,7 @@
 | 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.cpp) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1971/B%20-%20Different%20String/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
+| 1999D | [Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1999/D%20-%20Slavic's%20Exam/solution.cpp) |
 | 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2000/A%20-%20Primary%20Task/solution.cpp) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
