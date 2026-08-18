@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 227 | 23 |
+| 228 | 23 |
 
 ---
 
@@ -25,12 +25,12 @@
 - [games](#games) (5)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (51)
+- [greedy](#greedy) (52)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (127)
 - [math](#math) (89)
 - [number theory](#number-theory) (13)
-- [sortings](#sortings) (14)
+- [sortings](#sortings) (15)
 - [strings](#strings) (51)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
@@ -229,6 +229,7 @@
 | 1716A | [2-3 Moves](https://codeforces.com/contest/1716/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1716/A%20-%202-3%20Moves/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
+| 1792A | [GamingForces](https://codeforces.com/contest/1792/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1792/A%20-%20GamingForces/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1807B | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1807/B%20-%20Grab%20the%20Candies/solution.cpp) |
 | 1811A | [Insert Digit](https://codeforces.com/contest/1811/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1811/A%20-%20Insert%20Digit/solution.cpp) |
@@ -521,6 +522,7 @@
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
+| 1792A | [GamingForces](https://codeforces.com/contest/1792/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1792/A%20-%20GamingForces/solution.cpp) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
