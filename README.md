@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 229 | 23 |
+| 230 | 23 |
 
 ---
 
@@ -27,11 +27,11 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (53)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (128)
+- [implementation](#implementation) (129)
 - [math](#math) (89)
 - [number theory](#number-theory) (13)
 - [sortings](#sortings) (15)
-- [strings](#strings) (51)
+- [strings](#strings) (52)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (3)
@@ -318,6 +318,7 @@
 | 884A | [Book Reading](https://codeforces.com/contest/884/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/884/A%20-%20Book%20Reading/solution.cpp) |
 | 935A | [Fafa and his Company](https://codeforces.com/contest/935/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/935/A%20-%20Fafa%20and%20his%20Company/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
+| 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/977/B%20-%20Two-gram/solution.cpp) |
 | 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.cpp) |
 | 1003A | [Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1003/A%20-%20Polycarp's%20Pockets/solution.cpp) |
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.cpp) |
@@ -549,6 +550,7 @@
 | 776A | [A Serial Killer](https://codeforces.com/contest/776/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/776/A%20-%20A%20Serial%20Killer/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 802G1 | [Fake News (easy)](https://codeforces.com/contest/802/problem/G1) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/802/G1%20-%20Fake%20News%20(easy)/solution.cpp) |
+| 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/977/B%20-%20Two-gram/solution.cpp) |
 | 978B | [File Name](https://codeforces.com/contest/978/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/978/B%20-%20File%20Name/solution.cpp) |
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.cpp) |
 | 1008A | [Romaji](https://codeforces.com/contest/1008/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1008/A%20-%20Romaji/solution.cpp) |
