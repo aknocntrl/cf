@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 230 | 23 |
+| 231 | 23 |
 
 ---
 
@@ -28,8 +28,8 @@
 - [greedy](#greedy) (53)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (129)
-- [math](#math) (89)
-- [number theory](#number-theory) (13)
+- [math](#math) (90)
+- [number theory](#number-theory) (14)
 - [sortings](#sortings) (15)
 - [strings](#strings) (52)
 - [ternary search](#ternary-search) (1)
@@ -434,6 +434,7 @@
 | 1385A | [Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1385/A%20-%20Three%20Pairwise%20Maximums/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1519A | [Red and Blue Beans](https://codeforces.com/contest/1519/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1519/A%20-%20Red%20and%20Blue%20Beans/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
 | 1549A | [Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1549/A%20-%20Gregor%20and%20Cryptography/solution.cpp) |
@@ -504,6 +505,7 @@
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
 | 1549A | [Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1549/A%20-%20Gregor%20and%20Cryptography/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
