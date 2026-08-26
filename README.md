@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 232 | 23 |
+| 233 | 23 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (48)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (22)
+- [constructive algorithms](#constructive-algorithms) (23)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (7)
 - [expression parsing](#expression-parsing) (1)
@@ -28,7 +28,7 @@
 - [greedy](#greedy) (53)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (129)
-- [math](#math) (91)
+- [math](#math) (92)
 - [number theory](#number-theory) (14)
 - [sortings](#sortings) (15)
 - [strings](#strings) (52)
@@ -142,6 +142,7 @@
 | 1325A | [EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1325/A%20-%20EhAb%20AnD%20gCd/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
+| 1352B | [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1352/B%20-%20Same%20Parity%20Summands/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1493A | [Anti-knapsack](https://codeforces.com/contest/1493/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1493/A%20-%20Anti-knapsack/solution.cpp) |
 | 1702A | [Round Down the Price](https://codeforces.com/contest/1702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1702/A%20-%20Round%20Down%20the%20Price/solution.cpp) |
@@ -430,6 +431,7 @@
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
 | 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 1352B | [Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1352/B%20-%20Same%20Parity%20Summands/solution.cpp) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
