@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 237 | 23 |
+| 238 | 23 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [greedy](#greedy) (54)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (131)
-- [math](#math) (94)
+- [math](#math) (95)
 - [number theory](#number-theory) (14)
 - [sortings](#sortings) (17)
 - [strings](#strings) (52)
@@ -429,6 +429,7 @@
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
+| 1213A | [Chips Moving](https://codeforces.com/contest/1213/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1213/A%20-%20Chips%20Moving/solution.cpp) |
 | 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.cpp) |
 | 1311A | [Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1311/A%20-%20Add%20Odd%20or%20Subtract%20Even/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
