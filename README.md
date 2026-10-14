@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 238 | 23 |
+| 239 | 23 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [games](#games) (5)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (54)
+- [greedy](#greedy) (55)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (131)
 - [math](#math) (95)
@@ -266,6 +266,7 @@
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 
 ### hashing
 
