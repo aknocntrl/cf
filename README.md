@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 241 | 24 |
+| 242 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (2)
+- [*special](#special) (3)
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (4)
@@ -32,7 +32,7 @@
 - [math](#math) (96)
 - [number theory](#number-theory) (14)
 - [sortings](#sortings) (17)
-- [strings](#strings) (52)
+- [strings](#strings) (53)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (3)
@@ -45,6 +45,7 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
+| 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
 
 ### Uncategorized
 
@@ -618,6 +619,7 @@
 | 2091A | [Olympiad Date](https://codeforces.com/contest/2091/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2091/A%20-%20Olympiad%20Date/solution.cpp) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
+| 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/aknocntrl/cf/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ### ternary search
